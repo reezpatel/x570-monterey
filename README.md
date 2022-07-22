@@ -24,10 +24,15 @@ Motherboard: Gigabyte Aorus X570 Pro Wi-Fi (rev 1.2)
 ##### What Works
 
 [x] All NVMe / SATA Drive
+
 [x] USB ports (at least all the ones I use)
+
 [x] Microphone (I use a USB microphone)
+
 [x] Audio (I Use line-out from the motherboard)
+
 [x] Wi-Fi & Bluetooth - Through OpenIntelWireless
+
 [x] Ethernet work now by skipping DHCP (setting static IP in mac and router) - with AppleGB kext
 
 ##### What doesn't work
